@@ -8,7 +8,7 @@ JULY 5TH 2018
 
 ## Description
 
-Design & created Mockup design for FeedBack Component and built in via React. Worked on server and parts of user authorization and linked form to PostgreSQL.
+Design & created Mockup for FeedBack Component and built in via React. Worked on server and parts of user authorization and linked form to PostgreSQL.
 
 ## Project ScreenShots
 
