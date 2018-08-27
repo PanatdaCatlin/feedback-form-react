@@ -26,7 +26,7 @@ Design & created Mockup for FeedBack Component and built in via React. Worked on
 
 2. Run npm install to install dependencies required to run the simple app.
 
-3. Run npm run start and go to localhost:8080 to view the app.
+3. Run npm run start and go to localhost:3000 to view the app. (You'll need login information)
 
 ## Known Bugs
 
@@ -43,7 +43,7 @@ Design & created Mockup for FeedBack Component and built in via React. Worked on
 
 ## Support and Contact Details
 
-_If you have any feedback pertaining to this project; such an suggestions and improvements, feel free to contact me via email at panatdainthala@gmail.com. All feedback is welcomed._
+_All feedback is welcomed. If you have any feedback pertaining to this project; such an suggestions and improvements, feel free to contact me via email at panatdainthala@gmail.com._
 
 ### License
 
