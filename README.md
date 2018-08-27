@@ -1,6 +1,8 @@
 # feedback-form-react
 
-#### _React, PostgreSQL, Koa, Axios, Semantic-ui-react_ JULY 5TH 2018
+JULY 5TH 2018
+
+#### _React, PostgreSQL, Koa, Axios, Semantic-Ui-React_ 
 
 #### By _**Panatda Inthala**_
 
@@ -8,14 +10,13 @@
 
 Design & created Mockup design for FeedBack Component and built in via React. Worked on server and parts of user authorization and linked form to PostgreSQL.
 
-## Project Pictures
+## Project ScreenShots
 
-![alt text](Screen Shot 2018-06-22 at 8.23.38 AM.png “Jira Ticket for creating the view for feedback form”)
-![alt text](Screen Shot 2018-06-22 at 8.23.26 AM.png “Jira Ticket for connecting it to PostgresSQL”)
-![alt text](Screen Shot 2018-06-22 at 8.23.26 AM.png “Jira Ticket for connecting it to PostgresSQL”)
-![alt text](Screen Shot 2018-06-22 at 11.53.37 AM.png “PostgresSQL running test”)
-![alt text](Screen Shot 2018-06-19 at 12.58.03 PM.png “Basic submit form”)
-![alt text](Screen Shot 2018-06-22 at 1.10.17 PM.png “Result after submitted form”)
+![alt text](JIRAticketsubmitform.png "ira Ticket for creating the view for feedback form")
+![alt text](RESTendpoint.png "Jira Ticket for connecting it to PostgresSQL")
+![alt text](PostgresSQL.png "PostgresSQL running test")
+![alt text](feedbackform.png "Created Feedback Form")
+![alt text](feedbackformsubmit.png "Result after submitted form")
 
 
 
