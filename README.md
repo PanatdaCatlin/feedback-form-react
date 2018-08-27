@@ -36,17 +36,17 @@ Design & created Mockup for FeedBack Component and built in via React. Worked on
 *  Semantic UI
 *  Javascript
 *  JSX
-*  REACT
-*  POSTGRESSQL
-*  AXIOS
-*  KOA
+*  React
+*  PostgresSQL
+*  Axios
+*  Koa
 
 ## Support and Contact Details
 
-_All feedback is welcomed. If you have any feedback pertaining to this project; such an suggestions and improvements, feel free to contact me via email at panatdainthala@gmail.com._
+_All feedback is welcomed. If you have any feedback pertaining to this project; such an suggestions and improvements, feel free to contact me via email at panatdacatlin@gmail.com._
 
 ### License
 
 *This software is licensed under the MIT license.*
 
-Copyright (c) 2018 **Panatda Inthala**
+Copyright (c) 2018 **Panatda Catlin**
